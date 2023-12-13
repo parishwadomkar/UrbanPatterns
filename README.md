@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the code and resources from the special lecture delivered at SPA Bhopal on assessing urban patterns of public disturbance acts using crowdsourced data. The focus of this study is on the city of Stockholm, Sweden, particularly in the context of the COVID-19 pandemic and its impact on public behavior.
 
-![Heatmap](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VtcDQwcmFqcjNoNnQxZm43NGpjdDA5dzVkMHRlaWRwZTd3cDd1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkOzwhPAC75hRUvfmf/giphy.gif)
+![Heatmap](https://github.com/parishwadomkar/UrbanPatterns/blob/main/Violence_daytime.gif)
 
 ## Contents
 - **Google and Apple Mobility Data Analysis:** Jupyter notebook analyzing mobility data to understand changes in public movement patterns. [Google and Apple Mobility Data Notebook](https://github.com/parishwadomkar/UrbanPatterns/blob/main/Google%20and%20apple%20Mobility%20data.ipynb)
