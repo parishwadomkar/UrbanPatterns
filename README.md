@@ -34,6 +34,6 @@ The aim is to investigate the level and distribution of public disturbance acts 
 For academic and research purposes, please cite the following paper: [DOI: 10.1016/j.cities.2023.104456](https://doi.org/10.1016/j.cities.2023.104456)
 
 ## Acknowledgments
-Special thanks to SPA Bhopal for hosting the lecture and Chalmers University of Technology for supporting this research.
+Special thanks to SPA Bhopal for hosting the lecture and KTH Royal Institute and Chalmers University of Technology, Sweden for supporting this research.
 
 ![Heatmap](https://github.com/parishwadomkar/UrbanPatterns/blob/main/Violence_daytime.gif)
