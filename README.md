@@ -21,7 +21,7 @@ The study addresses several key questions:
 ## Study Aim
 The aim is to investigate the level and distribution of public disturbance acts in Stockholm before and after the recommended stay-at-home measures during the COVID-19 pandemic.
 
-Seasonal Variations (with Confidence Intervals)
+Seasonal trends for incident counts (with Confidence Intervals)
 ![Seasons](https://github.com/parishwadomkar/UrbanPatterns/blob/main/SeasonalVariations.png)
 
 ## Data Analysis
